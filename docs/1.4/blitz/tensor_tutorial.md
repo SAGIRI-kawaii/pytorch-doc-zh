@@ -4,7 +4,7 @@
 
 > 译者：[bat67](https://github.com/bat67)
 >
-> 校验者：[FontTian](https://github.com/fonttian)
+> 校验者：[FontTian](https://github.com/fonttian), [ZAPHAKIEL](https://github.com/SAGIRI-kawaii)
 
 **作者**： [Soumith Chintala](http://soumith.ch/)
 
